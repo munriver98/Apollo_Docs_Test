@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "prestart": "gatsby clean",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "2.24.36",
+    "gatsby-cli": "^2.12.79",
+    "gatsby-theme-apollo-docs": "4.3.6",
+    "global": "^4.4.0",
+    "react": "16.13.1",
+    "react-dom": "16.12.0"
+  }
+}
